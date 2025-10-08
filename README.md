@@ -56,6 +56,7 @@ Collect data (soil moisture, temperature, weather).
 AI model analyzes water need for specific crop.
 IoT-enabled pump automatically irrigates as per requirement.
 Farmer can monitor and control via mobile application.
+![WhatsApp Image 2025-10-08 at 15 15 52_ab618906](https://github.com/user-attachments/assets/16b09c68-12aa-4427-8af2-0ca9fb3109ef)
 
 
 ## Feasibility and Viability
@@ -90,3 +91,4 @@ Government of India – Digital Agriculture Mission (2021–2025) – Policy fra
 Research Paper: “IoT based Smart Irrigation System for Precision Agriculture” – International Journal of Engineering Research & Technology (IJERT), 2021.
 Book Reference: R. Rajesh, Smart Farming Technologies for Sustainable Agriculture, Springer, 2020.
 Case Study: Punjab Agricultural University pilot projects on drip irrigation and water conservation.
+www.ijnrd.com www.jetir.com
